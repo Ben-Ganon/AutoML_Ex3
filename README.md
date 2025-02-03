@@ -1,22 +1,26 @@
-# **Extending Chapter 11: Two-Hidden-Layer MLP for MNIST**
+# **Machine Learning Ex 3**
 
-This repository contains an extended version of the original single-hidden-layer MLP code from Chapter 11 of the book [_Machine Learning with PyTorch and Scikit-Learn_ by Raschka et al. (2022)_](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb). The code has been revised to include **two hidden layers** from scratch, and another one using Keras. Additionally, the final performance (macro AUC) is compared with:
+This repository contains an extended version of the original single-hidden-layer MLP code from Chapter 11 of the book [_Machine Learning with PyTorch and Scikit-Learn_ by Raschka et al. (2022)_](https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb). The code has been revised to include **two hidden layers** from scratch, and another one using pytorch.
+all three Macro-AUC scores are:
 
-1. The **original single-hidden-layer**  
-2. The **extended two-hidden-layer**
-3. A **fully connected ANN** implemented in **Keras**.
+One Layer Perceptron Micro-AUC: 0.996
+Two Layer Perceptron Micro-AUC: 0.994
+Two Layer Perceptron PyTorch Micro-AUC: 0.996
 
 ---
 
 ## **Repository Contents**
 
-- **`ch11.ipynb`**  
+- **`ML_EX3.ipynb`**  
   Our Notebook.
 
 - **`README.md`**  
-  The file you are reading now, describing the repository contents and usage instructions.
+This very file.
+RIVETING
 
-- **`Ex3.pdf`** (or `report.docx` / `report.md`)  
-  Contains a short explanation of the solutions, results, and comparisons for the assignment submission.
+- **`ML_EX3.pdf`**  
+
+Our full report with implementation details.
+Inquire inside for more details and a chance to win an exclusive prize! (our eternal gratitude)
 
 ---
