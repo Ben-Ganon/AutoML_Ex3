@@ -5,7 +5,7 @@ all three Macro-AUC scores are:
 
 - One Layer Perceptron Micro-AUC: 0.996
 - Two Layer Perceptron Micro-AUC: 0.994
-- [] Two Layer Perceptron PyTorch Micro-AUC: 0.996
+- [ ] Two Layer Perceptron PyTorch Micro-AUC: 0.996
 
 ---
 
